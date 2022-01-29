@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://phvntin.github.io/mygallerychallenge/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/s10P3YRUe7tywugyMXeI">
       Solution
     </a>
     <span> | </span>
@@ -24,13 +24,7 @@
 
 <!-- TABLE OF CONTENTS -->
 
-## Table of Contents
 
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
